@@ -1,5 +1,5 @@
 #Program Name: Dab Tracker
-#Version: 0.2
+#Version: 0.3
 #Author: cat-thats-fat
 #Purpose: To track dabs taken and display stats on them.
 #Update Date: 2021-11-05
